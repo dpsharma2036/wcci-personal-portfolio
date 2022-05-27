@@ -171,16 +171,16 @@
     color: rgb(229, 12, 12);
   }
   
-  
+   
+  section >p {
+    margin:1em 0 ;
+  }
   
   section{
     margin: 1em;
     padding-top: 3em;
     min-height: 20em;
   
-  }
-  section >p {
-    margin:1em 0 ;
   }
   
   section ul{
